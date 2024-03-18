@@ -1,0 +1,1 @@
+The excel file in this folder contains important data of various markets downloaded from the Bloomberg Terminal. It provides data about Dow Jones, Sensex, S&P 500, Nasdaq, Nifty 50. It also include sector wise data of the Indian market, like Energy, FMCG, midcap, etc.
